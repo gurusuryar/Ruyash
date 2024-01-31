@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruyash
+- 👋 Hi, I’m @gurusuryar
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React.js
 
